@@ -1,0 +1,9 @@
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\bin\Debug\tellerApp.exe.config
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\bin\Debug\tellerApp.exe
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\bin\Debug\tellerApp.pdb
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\obj\Debug\tellerApp.csprojResolveAssemblyReference.cache
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\obj\Debug\tellerApp.Form1.resources
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\obj\Debug\tellerApp.Properties.Resources.resources
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\obj\Debug\tellerApp.csproj.GenerateResource.Cache
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\obj\Debug\tellerApp.exe
+c:\users\amran\documents\visual studio 2013\Projects\tellerApp\tellerApp\obj\Debug\tellerApp.pdb
